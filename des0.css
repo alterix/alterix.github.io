@@ -18,6 +18,10 @@ h3 {
   margin: 25px 10px 10px 75px;
 }
 
+ol li {
+  margin: 0px 10px 10px 50px;
+}
+
 p {
   margin: 0px 10px 10px 50px;
 }
